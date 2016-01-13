@@ -1,0 +1,10 @@
+{
+    "title": "Mention Awesome Documentation",
+    "description": "For developers looking for doing awesome apps",
+    "language": "en",
+    "direction": "ltr",
+    "variables": {
+        "host": "dev.preprod.mention.com",
+        "plugins" : [ "anchors" ]
+    }
+}
