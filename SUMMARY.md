@@ -7,4 +7,6 @@ This is the summary of my book.
     * [Design](introduction/Design.md)
 * [alert](alert/README.md)
     * [Tag](alert/Tag.md)
+        * [GET](alert/GetTag.md)
         * [POST](alert/PostTag.md)
+        * [PUT](alert/PutTag.md)
